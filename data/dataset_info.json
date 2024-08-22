@@ -1,4 +1,28 @@
 {
+  "mind":{
+    "file_name": "/home/aiscuser/ds/data/sft/mind_click_sft_data.json",
+    "columns": {
+    "prompt": "instruction",
+    "query": "input",
+    "response": "output"
+    }
+  },
+  "yelp":{
+    "file_name": "ds/data/sft/yelp_review_sft_data.json",
+    "columns": {
+    "prompt": "instruction",
+    "query": "input",
+    "response": "output"
+    }
+  },
+  "movies":{
+    "file_name": "ds/data/sft/movies_rating_sft_data.json",
+    "columns": {
+    "prompt": "instruction",
+    "query": "input",
+    "response": "output"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
